@@ -6,4 +6,5 @@ select your dll wait for minecraft to be on the main menu click inject and you'r
 
 
 
-<img width="403" height="296" alt="{83A561D2-673E-47EC-915C-22C811177E7F}" src="https://github.com/user-attachments/assets/5beeef56-e24a-444f-80f4-f32d12b3fbeb" />
+<img width="456" height="374" alt="{C2CE701E-5D1B-41B9-9FE3-DAA7DAD97DD2}" src="https://github.com/user-attachments/assets/0290091f-a2a7-47c0-8b53-406565db8cd2" />
+
